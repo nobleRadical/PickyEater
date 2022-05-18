@@ -1,0 +1,10 @@
+﻿{
+	"name": "Picky_Eater",
+	"version_number": "1.0.2",
+	"website_url": "",
+	"description": "Adds eating priority to Egocentrism.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
